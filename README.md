@@ -1,6 +1,6 @@
 # freecodecamp_time_calculator_project
 
-![completed image)(https://github.com/the-real-kodoninja/freecodecamp_time_calculator_project/blob/main/build-a-time-calculator-project.py)
+![completed image)(https://github.com/the-real-kodoninja/freecodecamp_time_calculator_project/blob/main/captureit_2-20-2025_at_02-50-55.png)
 
 Build a Time Calculator Project
 Write a function named add_time that takes in two required parameters and one optional parameter:
